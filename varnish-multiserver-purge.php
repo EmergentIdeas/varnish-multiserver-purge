@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Varnish Multisite Purge
+Plugin Name: Varnish Multiserver Purge
 Plugin URI: https://halfelf.org/plugins/varnish-http-purge/
 Description: Automatically purge Varnish Cache from multiple servers when content on your site is modified.
 Version: 1.0.1
